@@ -1,0 +1,1 @@
+export 'package:wally_news/infrastructure/mappers/new_mapper.dart';

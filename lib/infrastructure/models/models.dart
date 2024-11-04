@@ -1,0 +1,1 @@
+export 'package:wally_news/infrastructure/models/newsApi/get_news_by_category_response.dart';

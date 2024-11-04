@@ -1,0 +1,1 @@
+export 'package:wally_news/domain/repositories/news_repository.dart';
